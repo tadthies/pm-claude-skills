@@ -516,12 +516,12 @@
  },
  {
   "d": "2026-10-19",
-  "runs": 149,
+  "runs": 150,
   "stars": 0,
-  "npmWeek": 808,
-  "npmToolsWeek": 352,
-  "npmSpecWeek": 4,
+  "npmWeek": 790,
+  "npmToolsWeek": 233,
+  "npmSpecWeek": 5,
   "pypiMonth": 1163,
-  "skillPings": 143
+  "skillPings": 147
  }
 ]

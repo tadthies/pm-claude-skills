@@ -1,4 +1,4 @@
-# Staleness board — 2026-10-12
+# Staleness board — 2026-10-19
 
 515 live skills · 0 carry a `verified:` date · 515 untouched for over 90 days (50 of them Production-tier).
 
